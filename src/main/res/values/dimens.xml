@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--                 Main menu                     -->
+    <dimen name="main_menu_text_views_margin">50dp</dimen>
+    <dimen name="main_menu_title_text_size">43sp</dimen>
+    <dimen name="main_menu_highscore_text_size">25sp</dimen>
+    <dimen name="game_score_margin_bottom">10dp</dimen>
+
+    <!--                 Game                           -->
+    <dimen name="game_field_height">400dp</dimen>
+    <dimen name="game_field_margin_bottom">100dp</dimen>
+    <dimen name="game_field_margin_horizontal">20dp</dimen>
+    <dimen name="hole_size">75dp</dimen>
+
+    <!--                  Game over                            -->
+    <dimen name="game_over_score_margin_top">10dp</dimen>
+    <dimen name="game_over_buttons_margin_top">25dp</dimen>
+    <dimen name="game_over_buttons_padding">15dp</dimen>
+    <dimen name="game_over_retry_button_margin_start">25dp</dimen>
+</resources>
